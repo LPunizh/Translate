@@ -3,11 +3,11 @@ msgstr ""
 "FAH-Translate-Schema-Version: 1.0\n"
 "URL: https://foldingathome.org/\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200705\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20201102\n"
 "Target-Language: id-ID\n"
-"Target-Version: 1.0.0\n"
-"Target-Last-Modified: 20201026\n"
+"Target-Version: 1.1.0\n"
+"Target-Last-Modified: 20201230\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -53,6 +53,9 @@ msgstr "Mac"
 msgid "Start folding"
 msgstr "Mulai folding"
 
+msgid "Latest Posts"
+msgstr "Postingan Terbaru"
+
 msgid "JOIN THE COMMUNITY"
 msgstr "GABUNG KE KOMUNITAS"
 
@@ -62,11 +65,8 @@ msgstr "Komunitas Folding@Home tersebar di berbagai forum, situs web, dan media 
 msgid "Here's a list of our official channels."
 msgstr "Berikut daftar saluran resmi kami."
 
-msgid "For tech support:"
-msgstr "Untuk dukungan teknis:"
-
-msgid "foldingforum.org"
-msgstr "foldingforum.org"
+msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
+msgstr "Untuk dukungan teknis: [foldingforum.org](https://foldingforum.org/)"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -103,6 +103,3 @@ msgstr "Tim"
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
 msgstr "Folding@home saat ini berbasis di Washington University di St. Louis School of Medicine, di bawah kepemimpinan Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) dan [Vince Voelz](http://www.voelzlab.org/) (Temple University) juga aktif membantu mengelola proyek ini. Bersama-sama, ketiga lab tersebut adalah pendorong utama Folding@home."
-
-msgid "Latest Posts"
-msgstr "Postingan Terbaru"
